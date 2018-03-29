@@ -3,7 +3,11 @@ tools
 
 ## todo
 - [ ] py chess
+https://github.com/thomasahle/sunfish
+https://github.com/niklasf/python-chess
+https://github.com/marcusbuffett/command-line-chess
 - [ ] py tuner
+https://github.com/mzucker/python-tuner
 
 
 ## 01-rename.py
